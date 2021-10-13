@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["productId"],"fkey":["productTypeId"],"unique":["productTypeName"],"relative":[{"shopping":"orderdetail"}]},"item":[]}

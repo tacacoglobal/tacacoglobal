@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["salaryId"],"fkey":["staffId","benefitId"]},"item":[]}

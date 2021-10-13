@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["replyId"],"fkey":["commentId","pollerId"],"unique":["commentDetail"],"relative":[{"shopping":"comment"}]},"item":[]}

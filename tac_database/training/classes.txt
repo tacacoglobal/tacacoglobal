@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["studentId","scheduleId"],"fkey":["studentId","scheduleId"],"relative":[{"training":"project"}]},"item":[{"scheduleId":"1","studentId":"1"},{"scheduleId":"1","studentId":"2"},{"scheduleId":"2","studentId":"3"},{"scheduleId":"3","studentId":"4"}]}

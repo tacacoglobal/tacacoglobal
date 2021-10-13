@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'tacaco';
+    src:url('../webfonts/fa-solid-900.eot');
+    src:url('../webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/fa-solid-900.woff') format('woff'),
+        url('../webfonts/fa-solid-900.ttf') format('truetype'),
+        url('../webfonts/fa-solid-900.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tacaco';
+    src:url('../webfonts/fa-brands-400.eot');
+    src:url('../webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/fa-brands-400.woff') format('woff'),
+        url('../webfonts/fa-brands-400.ttf') format('truetype'),
+        url('../webfonts/fa-brands-400') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="tac-"], [class*=" tac-"] {
+    font-family: 'tacaco';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.tac-thiet-ke-website:before {content: "\f558";}
+.tac-thiet-ke-phan-mem:before {content: "\f2d2";}
+.tac-kinh-doanh-truc-tuyen:before {content: "\f201";}
+.tac-ung-dung-thong-minh:before {content: "\f544";}
+.tac-thiet-ke-quang-cao:before {content: "\f2ce";}
+.tac-thiet-ke-logo:before {content: "\f5ae";}
+
+.tac-tiep-nhan:before {content: "\f234";}
+.tac-trien-khai:before {content: "\f4ff";}
+.tac-ban-giao:before {content: "\f4fc";}
+.tac-web-doanh-nghiep:before {content: "\f1ad";}
+.tac-web-ban-hang:before {content: "\f07a";}
+.tac-web-giao-duc:before {content: "\f501";}
+.tac-web-du-lich:before {content: "\f207";}
+.tac-web-theo-yeu-cau:before {content: "\f044";}
+.tac-phan-mem-nhan-su:before {content: "\f0c0";}
+.tac-phan-mem-ban-hang:before {content: "\f54e";}
+.tac-phan-mem-ke-toan:before {content: "\f1ec";}
+.tac-phan-mem-theo-yeu-cau:before {content: "\f044";}
+.tac-quang-cao-google:before {content: "\f124";}
+.tac-streaming-video:before {content: "\f04b";}
+.tac-nha-thong-minh:before {content: "\e066";}
+.tac-vuon-thong-minh:before {content: "\f4d8";}
+.tac-giao-thong-thong-minh:before {content: "\f637";}
+.tac-search-dollar:before {content:"\f002";}
+.tac-chart-pie:before {content:"\f200";}
+.tac-security:before {content:"\f502";}
+.tac-professional:before {content:"\f560";}
+.tac-clock:before {content:"\f017";}
+.tac-dollar:before {content:"\f155";}
+.tac-task:before {content:"\f0ae";}
+.tac-question:before {content:"\f059";}
+.tac-angle-up:before {content:"\f106";}
+.tac-angle-left:before {content:"\f104";}
+.tac-angle-right:before {content:"\f105";}
+.tac-phone:before {content:"\f095";}
+.tac-chat:before {content:"\f086";}
+.tac-head-set:before {content:"\f590";}
+.tac-email:before {content:"\f0e0";}
+.tac-address:before {content:"\f3c5";}
+.tac-repair:before {content:"\f7d9";}
+.tac-facebook:before {content:"\f39e";}
+.tac-instagram:before {content:"\f16d";}
+.tac-twitter:before {content:"\f099";}
+.tac-youtube:before {content:"\f167";}
+.tac-custommer:before {content:"\f0c0";}
+.tac-trusted:before {content:"\f0eb";}
+.tac-brush:before {content:"\f1fc";}
+.tac-store:before {content:"\f54e";}
+
+.tac-check:before {content:"\f058";}
+.tac-desktop:before {content:"\f108";}
+.tac-setting:before {content:"\f085";}
+.tac-lock:before {content:"\f023";}
+.tac-play:before {content:"\f04b";}

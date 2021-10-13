@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["interviewId"],"fkey":["candidateId"],"unique":["interviewName"]},"item":[{"interviewName":"ffadsa","interviewUrl":"\u0111\u00e2sd","interviewPost":"18\/02\/2021","candidateId":"4","interviewId":1},{"interviewName":"trytrytr","interviewUrl":"ytryrtyrt","interviewPost":"18\/02\/2021","candidateId":"2","interviewId":2}]}

@@ -1,0 +1,1 @@
+{"attribute":{"pkey":["videoId"],"unique":["videoName","videoUrl"],"relative":[{"training":"online"}]},"item":[{"videoName":"php bai 1","videoUrl":"https:\/\/tamcau.com\/php-bai-1.mp4","videoPost":"22\/05\/2021","onlineViewer":0,"onlineLiker":0,"videoId":1}]}
